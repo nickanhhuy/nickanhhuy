@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://images-ext-1.discordapp.net/external/8oeg7LkxozGkIc_vpJkqnGNd6tRl9WalICwbnlCjPGM/https/content.cloudthat.com/resources/wp-content/uploads/2023/12/dgt.png?format=webp&quality=lossless&width=750&height=750" alt="AWS Cloud Certificate Online" width="180"/>
 </p>
-<p> Looking for Internnship / Co-op Positions for SUmmer 2026</p>
+<p> @@@@@@@@@@@@ Looking for Internnship / Co-op Positions for SUmmer 2026 @@@@@@@@@@@@@@@@@@</p>
 ---
 
 
