@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
+<h1 align="center">Vu Anh Huy Nguyen</h1>
 <h3 align="center">AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
