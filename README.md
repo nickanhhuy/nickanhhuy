@@ -1,4 +1,5 @@
 <h1 align="center">Vu Anh Huy Nguyen</h1>
+<h2 align="center"> Computer Science Minor in Cloud Computing</h2> 
 <h3 align="center">AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
